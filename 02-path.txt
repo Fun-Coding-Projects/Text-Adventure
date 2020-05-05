@@ -1,0 +1,9 @@
+{name} the adventurer enters the village looking for adventure and fortune.
+In the town center stand two guilds.
+
+Which guild do you enter?
+
+1) Masters of the Arcane.
+2) Warrior Heroes
+
+>>>  

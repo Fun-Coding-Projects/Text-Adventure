@@ -1,0 +1,4 @@
+An adventurer enters the town.  
+What is your name traveller?
+
+>>>  
