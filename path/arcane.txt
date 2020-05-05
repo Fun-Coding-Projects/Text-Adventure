@@ -1,0 +1,13 @@
+Welcome to the Masters of the Arcane Guild, it is almost time to begin your 
+training.  {name} choose your magical item and the guild will assign you a 
+class.  Be warned, once you choose there is no going back, choose which ever 
+you feel drawn to.
+
+Before you is a table with an assortment of items,
+which do you choose?
+
+1) wand
+2) cauldron
+3) skull
+
+>>>  

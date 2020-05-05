@@ -1,0 +1,15 @@
+Welcome to the wrrior guild, it is almost time to begin your training.
+{name} choose a weapon and the guild will decide what class you will become.
+Be warned, once you choose there is no going back, to choose a weapon that best
+suites your spirit.
+
+Before you is a table with an assortment of weapons,
+which do you choose?
+
+1) long sword
+2) short sword
+3) dagger
+4) mace 
+5) a bow
+
+>>>  

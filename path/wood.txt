@@ -1,0 +1,10 @@
+{name} touches the {weapon} and disappears in a puff of smoke. 
+
+A mysteical voice announces "You have chosen the path of the {class}.
+Work hard and your chosen path will deliver you adventure and riches."  
+
+The world darkens, and you eventually wake up in a wood with a {weapon} in
+front of you and a pack of supplies. You pick them up, and follow the only 
+path you can see.
+
+>>>  
